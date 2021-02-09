@@ -1,1 +1,1 @@
-web: gunicorn app:fts_flask
+web: gunicorn app:fts-flask
